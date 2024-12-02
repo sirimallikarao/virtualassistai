@@ -1,4 +1,4 @@
-#VisionAssist AI 🌟
+# VisionAssist AI 🌟
 About VisionAssist AI
 VisionAssist AI leverages advanced Generative AI to provide accessible solutions for visually impaired individuals. Our app transforms visual data into meaningful descriptions, extracted text, or safe navigation insights.
 
